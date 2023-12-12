@@ -6,11 +6,11 @@ A demo app using compose and Hilt based on modern Android tech-stacks and MVVM a
 </br>
 
 ## Mock API for API Response
-[Click Releases](https://run.mocky.io/v3/2a7c0bc0-6430-4df5-8b78-7ac466b75595)
+[Click Here](https://run.mocky.io/v3/2a7c0bc0-6430-4df5-8b78-7ac466b75595) to open API URL.
 
 ## Screenshots
 <p align="center">
-<img src="/preview/preview.webm" width="270"/>
+<img src="/preview/preview.gif" width="270"/>
 </p>
 
 ## Tech stack & Open-source libraries
