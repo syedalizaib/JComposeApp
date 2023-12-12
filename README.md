@@ -10,7 +10,7 @@ A demo app using compose and Hilt based on modern Android tech-stacks and MVVM a
 
 ## Screenshots
 <p align="center">
-<img src="/preview/preview0.gif" width="270"/>
+<img src="/preview/preview.webm" width="270"/>
 </p>
 
 ## Tech stack & Open-source libraries

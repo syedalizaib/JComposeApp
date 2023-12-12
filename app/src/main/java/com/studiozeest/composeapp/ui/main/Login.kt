@@ -115,7 +115,7 @@ fun LoginScreen() {
 @Composable
 fun showMain(credentials: Credentials, context: Context): Boolean {
   MainScreen(username = credentials.login)
-  Toast.makeText(context, "Nice to see you ", Toast.LENGTH_SHORT).show()
+//  Toast.makeText(context, "Nice to see you ", Toast.LENGTH_SHORT).show()
   return true
 }
 
