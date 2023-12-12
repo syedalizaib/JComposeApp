@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "diseaseName": "Diabetes",
+    "diseaseInfo": [
+      {
+        "medications": [
+          {
+            "medicationsClasses": [
+              {
+                "id": 1,
+                "medicationsClassName": "className",
+                "associatedDrug": [
+                  {
+                    "name": "asprin",
+                    "dose": "",
+                    "strength": "500 mg"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "labs": [
+          {
+            "missing_field": "missing_value"
+          }
+        ]
+      },
+      {
+        "medications": [
+          {
+            "medicationsClasses": [
+              {
+                "id": 1,
+                "medicationsClassName": "className",
+                "associatedDrug": [
+                  {
+                    "name": "asprin",
+                    "dose": "",
+                    "strength": "400 mg"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "labs": [
+          {
+            "missing_field": "missing_value"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "diseaseName": "Fever",
+    "diseaseInfo": [
+      {
+        "medications": [
+          {
+            "medicationsClasses": [
+              {
+                "id": 1,
+                "medicationsClassName": "className",
+                "associatedDrug": [
+                  {
+                    "name": "asprin",
+                    "dose": "",
+                    "strength": "300 mg"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "labs": [
+          {
+            "missing_field": "missing_value"
+          }
+        ]
+      },
+      {
+        "medications": [
+          {
+            "medicationsClasses": [
+              {
+                "id": 1,
+                "medicationsClassName": "className",
+                "associatedDrug": [
+                  {
+                    "name": "asprin",
+                    "dose": "",
+                    "strength": "200 mg"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "labs": [
+          {
+            "missing_field": "missing_value"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "diseaseName": "Cancer",
+    "diseaseInfo": [
+      {
+        "medications": [
+          {
+            "medicationsClasses": [
+              {
+                "id": 1,
+                "medicationsClassName": "className",
+                "associatedDrug": [
+                  {
+                    "name": "asprin",
+                    "dose": "",
+                    "strength": "100 mg"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "labs": [
+          {
+            "missing_field": "missing_value"
+          }
+        ]
+      },
+      {
+        "medications": [
+          {
+            "medicationsClasses": [
+              {
+                "id": 1,
+                "medicationsClassName": "className",
+                "associatedDrug": [
+                  {
+                    "name": "asprin",
+                    "dose": "",
+                    "strength": "50 mg"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "labs": [
+          {
+            "missing_field": "missing_value"
+          }
+        ]
+      }
+    ]
+  }
+]
