@@ -32,5 +32,4 @@ A demo app using compose and Hilt based on modern Android tech-stacks and MVVM a
 - [Retrofit2 & OkHttp3](https://github.com/square/retrofit) - construct the REST APIs and paging network data.
 - [Sandwich](https://github.com/skydoves/Sandwich) - construct lightweight http API response and handling error responses.
 - [WhatIf](https://github.com/skydoves/whatif) - checking nullable object and empty collections more fluently.
-- [Balloon](https://github.com/skydoves/balloon) -  A lightweight popup like tooltips, fully customizable with arrow and animations.
 - [Timber](https://github.com/JakeWharton/timber) - logging.
